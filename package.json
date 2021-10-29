@@ -2,6 +2,9 @@
   "name": "eliasteshome",
   "version": "1.0.0",
   "description": "Contact Information About Elias Teshome",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "main": "index.js",
   "bin": {
     "eliasteshome": "./index.js"
