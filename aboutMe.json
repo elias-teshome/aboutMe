@@ -1,0 +1,22 @@
+{
+    "name" : "Elias Teshome",
+    "priorities": [
+      "Spring boot",
+      "hibernate",
+      "Angular",
+      "Web"
+    ],
+    "learn": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Angular",
+      "Node",
+      "MongoDB"
+    ],
+    "titles": [
+      "Full stack softeware developer"
+    ]
+}
